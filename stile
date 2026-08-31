@@ -6,6 +6,7 @@
          max-width: 800px;
        margin: 0 auto;
        padding: 16px;
+       height: 70px;
       }
       main{
         background-color: #FFFFFF;
