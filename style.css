@@ -28,6 +28,7 @@ body {
       article {
         display: flex;
 
+        border: 1px solid #7235B4;
       }
 
       img {
